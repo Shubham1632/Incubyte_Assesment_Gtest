@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Incubyte_assesment", "Incubyte_assesment\Incubyte_assesment.vcxproj", "{A6CF292A-1470-4861-B6AE-36E6E29F02DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6CF292A-1470-4861-B6AE-36E6E29F02DE}.Debug|x64.ActiveCfg = Debug|x64
+		{A6CF292A-1470-4861-B6AE-36E6E29F02DE}.Debug|x64.Build.0 = Debug|x64
+		{A6CF292A-1470-4861-B6AE-36E6E29F02DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6CF292A-1470-4861-B6AE-36E6E29F02DE}.Debug|x86.Build.0 = Debug|Win32
+		{A6CF292A-1470-4861-B6AE-36E6E29F02DE}.Release|x64.ActiveCfg = Release|x64
+		{A6CF292A-1470-4861-B6AE-36E6E29F02DE}.Release|x64.Build.0 = Release|x64
+		{A6CF292A-1470-4861-B6AE-36E6E29F02DE}.Release|x86.ActiveCfg = Release|Win32
+		{A6CF292A-1470-4861-B6AE-36E6E29F02DE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93B70703-1993-47F1-BFDE-A7440F053F16}
+	EndGlobalSection
+EndGlobal
